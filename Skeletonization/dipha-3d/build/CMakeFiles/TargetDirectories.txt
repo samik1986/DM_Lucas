@@ -1,0 +1,7 @@
+/home/lucas/Documents/UCSD/skeletonization/dipha-3d/build/CMakeFiles/rebuild_cache.dir
+/home/lucas/Documents/UCSD/skeletonization/dipha-3d/build/CMakeFiles/edit_cache.dir
+/home/lucas/Documents/UCSD/skeletonization/dipha-3d/build/CMakeFiles/dualize.dir
+/home/lucas/Documents/UCSD/skeletonization/dipha-3d/build/CMakeFiles/dipha.dir
+/home/lucas/Documents/UCSD/skeletonization/dipha-3d/build/CMakeFiles/create_phat_filtration.dir
+/home/lucas/Documents/UCSD/skeletonization/dipha-3d/build/CMakeFiles/full_to_sparse_distance_matrix.dir
+/home/lucas/Documents/UCSD/skeletonization/dipha-3d/build/CMakeFiles/test.dir
